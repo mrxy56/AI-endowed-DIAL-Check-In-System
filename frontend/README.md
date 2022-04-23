@@ -1,2 +1,2 @@
-# AI-endowed-Dial-Check-In-System-frontend
+# AI-endowed-DIAL-Check-In-System-frontend
 
