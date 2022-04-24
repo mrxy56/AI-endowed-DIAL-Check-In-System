@@ -1,10 +1,10 @@
 {
-  "name": "conFusion",
+  "name": "AI-DIAL",
   "homepage": "https://github.com/mrxy56/conFusion",
   "authors": [
-    "mrxy56 <mrxy56@163.com>"
+    "Tianqi Zhao <zhaot5@rpi.edu>"
   ],
-  "description": "Website for an awesome restaurant",
+  "description": "Website for AI-endowed-DIAL-Check-In System",
   "main": "index.html",
   "moduleType": [],
   "keywords": [
