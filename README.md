@@ -2,6 +2,8 @@
 
 By Tianqi Zhao
 
-Department of Computer Science
+To run the website
 
-Rensselaer Polytechnic Institute
+cd frontend
+
+npm start
